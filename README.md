@@ -12,7 +12,7 @@ I enjoy working with real-world data to uncover insights that drive smart decisi
 | [Credit Card Usage Analysis](https://github.com/prasanth0467/Credit-Card-Analysis-Project) | Analyzed 800K+ transactions, built a Power BI dashboard identifying spending patterns, and suggested targeted strategies for high-value segments. | Data Cleaning, Visual Storytelling, Insights |
 | [SQL Sales Analysis](https://github.com/prasanth0467/sql-sales-analysis) | Solved 10+ ad-hoc business queries using SQL on large datasets to aid management decision-making. | SQL Querying, Analytical Problem Solving |
 | [Telecom Churn Dashboard](https://github.com/prasanth0467/Telecom-Customer-Churn-Analysis) | Developed visual insights to identify churn drivers and retention opportunities using Excel and Power BI. | Dashboard Design, Business Insight |
-| [YouTube & E-commerce Data Projects](https://github.com/prasanth0467/Data-Analysis-Projects) | Multiple analysis projects: YouTube trends, sales, and ad-hoc insights using Python, SQL, and visualization tools. | Python, Storytelling, Hands-on Analysis |
+| [Patient Appointment Prediction & E-commerce Data Projects](https://github.com/prasanth0467/Data-Analysis-Projects) | Multiple analysis projects: YouTube trends, sales, and ad-hoc insights using Python, SQL, and visualization tools. | Python, Storytelling, Hands-on Analysis |
 
 ---
 
