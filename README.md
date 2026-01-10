@@ -1,5 +1,5 @@
 # Hi, I’m **Majji Prasanth Reddy** 👋  
-**Aspiring Data Analyst | SQL • Python • Power BI • Excel**
+**Data Analyst Intern | SQL • Python • Power BI • Excel**
 
 I enjoy working with real-world data to uncover insights that drive smart decisions. My strengths lie in cleaning messy datasets, crafting clear visualizations, and telling data-driven stories that matter.
 
